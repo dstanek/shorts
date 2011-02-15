@@ -1,0 +1,6 @@
+shorts is an AppEngine (http://appengine.google.com) application for shortening URLs.
+
+Required thirdparty libraries:
+ * snake-guice
+ * routes
+ * mako
